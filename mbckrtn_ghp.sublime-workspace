@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"fileExt"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"dat",
+				"datString"
+			],
+			[
+				"cl",
+				"clientCount"
+			],
+			[
+				"client",
+				"clientList"
+			],
+			[
+				"cust",
+				"custId"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/mbckrtn_ghp"
+	],
+	"file_history":
+	[
+		"/C/Users/Michael/Desktop/Apps/ghtest/test/readme.md",
+		"/C/Users/Michael/Desktop/Apps/ghtest/test/app/routes.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/main2.js",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/scrape.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/PageShowController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/NewDsController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/Michael/Downloads/raintpl-v.2.7.2/raintpl-v.2.7.2/example.php",
+		"/C/Users/Michael/Desktop/cernel/app/controls/register.php",
+		"/C/Users/Michael/Desktop/cernel/lib/user_lib.php",
+		"/C/Users/Michael/Desktop/cernel/lib/core_lib.php",
+		"/C/Users/Michael/Desktop/cernel/config.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index.tpl",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/rain.tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/CreateController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/Michael/Desktop/cernel/index.php",
+		"/C/Users/Michael/Desktop/cernel/lib/clients_lib.php",
+		"/C/Users/Michael/Downloads/raintpl-v.2.7.2/raintpl-v.2.7.2/cache_example.php",
+		"/C/Users/Michael/Desktop/wsmisa/router_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/core.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/scrape.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/main.css",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/routes.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/Account.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/UserController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/AccountController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/User.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/artisan",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/show.blade.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/users.blade.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/layout.blade.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/2014_09_03_020355_create_users_table.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/create.blade.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/database.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/routes.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/word.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/signup2.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/UserController.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/index.blade.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/User.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/app.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/19006034d8ff49bc6eebcc93193e559d",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-4/server.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/success.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-3/res.txt",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/viewbooks.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/checkout.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/MCMSCore.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/sitesettings.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/events.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/adminlogin.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/checkin.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/editpage.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/s3ex.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/php.ini",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/aws.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/SimpleEmailService.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/s3.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/user_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/config.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/file_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/upload_ctrl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/index_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Michael/Desktop/cernel/app/views/login_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index_tpl.php",
+		"/C/wamp/www/newapp/index.php",
+		"/C/wamp/www/newapp/lib/user_lib.php",
+		"/C/Users/Michael/Desktop/projects/www2/upload.php",
+		"/C/Users/Michael/Downloads/tpyo-amazon-s3-php-class-v0.5.0-7-g8413f6f.tar/tpyo-amazon-s3-php-class-v0.5.0-7-g8413f6f/tpyo-amazon-s3-php-class-8413f6f/example-form.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/signup2.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/signup.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/adminlogin.php",
+		"/C/Users/Michael/Desktop/cernel/app/controls/index.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/core_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/old_index.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/phpinfo.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/tpl_render_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/header_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index_ctrl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/footer_tpl.php",
+		"/C/Users/Michael/Desktop/cernel/app/views/header_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/db.php",
+		"/C/wamp/www/newapp/lib/medoo.min.php",
+		"/C/wamp/www/newapp/lib/core_lib.php",
+		"/C/wamp/www/newapp/config.php",
+		"/C/wamp/www/newapp/app/controls/register.php",
+		"/C/Users/Michael/AppData/Local/PAYDAY 2/renderer_settings.xml",
+		"/C/Users/Michael/Downloads/facebook-php-sdk-v4-master(1)/facebook-php-sdk-v4-master/autoload.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/debug.php",
+		"/C/wamp/www/cernel/config.php",
+		"/C/wamp/www/fb/index.html",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/client_pdf_show.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-2/pdfgen.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/add_sub_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/add_sub.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client_edit.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/customers_list_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/customer_new_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/customer_new_create_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client_view_info_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client_edit_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client_edit_success_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/index_li_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/register.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/clients_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/user_lib.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/login.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/register_default_tpl.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/client_edit_proc.php",
+		"/C/Users/Michael/AppData/Local/Temp/fz3temp-1/login_tpl.php",
+		"/C/wamp/www/cernel/app/views/client_edit_tpl.php",
+		"/C/wamp/www/cernel/app/views/customer_new_tpl.php",
+		"/C/wamp/www/cernel/app/views/customer_new_create_tpl.php",
+		"/C/wamp/www/cernel/app/controls/client_show.php",
+		"/C/wamp/www/cernel/app/controls/client_new_create.php",
+		"/C/wamp/www/cernel/app/controls/client_new.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ptitle",
+			"not found",
+			"tpl_ext",
+			"check_template",
+			"page",
+			";",
+			"US",
+			"submit",
+			"\"></",
+			"delete",
+			"createpage",
+			"editpage",
+			"extension",
+			"curl",
+			"php_curl",
+			"display_errors",
+			"baseName",
+			"putobjectfile",
+			"client",
+			"fontpath",
+			"url",
+			"un",
+			"jja",
+			"jim",
+			"jj",
+			"selec",
+			"update",
+			"home",
+			"index",
+			"match"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mbckrtn_ghp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
